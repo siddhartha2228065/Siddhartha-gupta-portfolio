@@ -69,8 +69,8 @@ export const CASE_STUDIES: CaseStudy[] = [
     tags: ['React.js', 'Node.js', 'Express.js', 'PostgreSQL', 'REST APIs'],
     gradient: 'from-emerald-500 to-teal-700 dark:from-emerald-400 dark:to-teal-500',
     metrics: '<500ms load time',
-    demoUrl: 'https://s3pipe.siddhartha.dev',
-    repoUrl: 'https://github.com/siddhartha-gupta/car-rental-system',
+    demoUrl: 'car-rental-alpha-sooty.vercel.app',
+    repoUrl: 'https://github.com/siddhartha2228065/CarRental',
     images: ['/car_rental_catalog.png'],
     features: [
       'Car listing management with image uploads and detailed vehicle information.',
